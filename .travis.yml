@@ -10,5 +10,6 @@ before_script:
   - sleep 1 # give server time to start
 
 script:
+  - cd Website
   - node_modules/.bin/karma start karma.conf.js --no-auto-watch --single-run --reporters=dots
   - node_modules/.bin/protractor e2e-tests/protractor.conf.js
