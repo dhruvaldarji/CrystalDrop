@@ -3,6 +3,7 @@ node_js:
   - "0.10"
 
 before_script:
+  - cd Website
   - export DISPLAY=:99.0
   - sh -e /etc/init.d/xvfb start
   - npm start > /dev/null &
@@ -10,6 +11,5 @@ before_script:
   - sleep 1 # give server time to start
 
 script:
-  - cd Website
   - node_modules/.bin/karma start karma.conf.js --no-auto-watch --single-run --reporters=dots
   - node_modules/.bin/protractor e2e-tests/protractor.conf.js
