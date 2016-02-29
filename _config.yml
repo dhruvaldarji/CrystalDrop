@@ -1,0 +1,33 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Crystal Drop
+
+email: dhruvaldarji@gmail.com
+
+description: > # this means to ignore newlines until next statement.
+  Crystal Drop is the endless arcade faller you’ll never want to put down.
+
+keywords: > # Key words to help define this site.
+  crystal drop,crystaldrop, crysdrop,crystal drops,endless,arcade,faller,crysdrops,crysdrop game,game, crys drop
+
+baseurl: "" # Site Subpath
+
+url: "http://crystaldrop.dhruvaldarji.com" # the base hostname & protocol for your site
+
+#twitter_username: dhruvaldarji
+
+github_username:  dhruvaldarji/CrystalDrop
+
+# Build settings
+markdown: kramdown
+
+# Site Source
+source: "CrystalSite/"
+
+destination: "CrystalSite/_site"

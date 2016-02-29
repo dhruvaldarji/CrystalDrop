@@ -1,13 +1,20 @@
-language: node_js
-node_js:
-  - "0.10"
+language: ruby
+rvm:
+- 2.1
 
 before_script:
-  - cd Website
-  - npm -g install npm@latest
-  - export DISPLAY=:99.0
-  - sh -e /etc/init.d/xvfb start
-  - sleep 1 # give server time to start
+ - chmod +x ./build_scripts/cibuild # or do this locally and commit
 
-script:
-#  - npm start
+# Assume bundler is being used, therefore
+# the `install` step will run `bundle install` by default.
+script: ./build_scripts/cibuild
+
+# branch whitelist, only for GitHub Pages
+branches:
+  only:
+  - gh-pages     # test the gh-pages branch
+  - /pages-(.*)/ # test every branch which starts with "pages-"
+
+env:
+  global:
+  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
