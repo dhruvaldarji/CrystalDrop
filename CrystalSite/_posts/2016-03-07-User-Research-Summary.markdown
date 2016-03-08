@@ -42,8 +42,7 @@ How can we incorporate touch and tilt controls to create an engaging, interactiv
 Additional Information
 ==================
 
-Structured interview questions:
-
+### Structured interview questions:
 * Are you a mobile gamer?
 * What is your gender?
 * What is your ethnicity?
@@ -58,17 +57,18 @@ Structured interview questions:
 * How do you feel about competitive gameplay with friends?
 * Do you play free-faller/endless runner games?
      * If you answered yes to the previous question, how much do you like them?
-* Semi-Structured interview questions:
 
-* Are you a mobile gamer? If yes, proceed with this interview.
-* Personal Information
+### Semi-Structured interview questions:
+* Are you a mobile gamer? (If yes, proceed with this interview.)
+
+### Personal Information
 * What is your age?
 * What is your gender?
 * What is your ethnicity?
 * What is your declared major?
 * Are you an android user, iPhone user, or Windows phone user?
 
-* Requirement questions
+### Requirement questions: 
 * Would you consider yourself a casual, mid-core, or hardcore mobile gamer?
 
 Definitions

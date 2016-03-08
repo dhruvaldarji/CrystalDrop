@@ -6,8 +6,8 @@
 </description>
     <link>http://crystaldrop.dhruvaldarji.com/</link>
     <atom:link href="http://crystaldrop.dhruvaldarji.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Mar 2016 22:13:56 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Mar 2016 22:13:56 -0500</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 22:19:38 -0500</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 22:19:38 -0500</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -296,8 +296,7 @@ Overall, Nathan is moderately curious of mobile games as his interest is not exc
 
 &lt;h1 id=&quot;additional-information&quot;&gt;Additional Information&lt;/h1&gt;
 
-&lt;p&gt;Structured interview questions:&lt;/p&gt;
-
+&lt;h3 id=&quot;structured-interview-questions&quot;&gt;Structured interview questions:&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Are you a mobile gamer?&lt;/li&gt;
   &lt;li&gt;What is your gender?&lt;/li&gt;
@@ -316,19 +315,24 @@ Overall, Nathan is moderately curious of mobile games as his interest is not exc
       &lt;li&gt;If you answered yes to the previous question, how much do you like them?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Semi-Structured interview questions:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Are you a mobile gamer? If yes, proceed with this interview.&lt;/li&gt;
-  &lt;li&gt;Personal Information&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;semi-structured-interview-questions&quot;&gt;Semi-Structured interview questions:&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Are you a mobile gamer? (If yes, proceed with this interview.)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;personal-information&quot;&gt;Personal Information&lt;/h3&gt;
+&lt;ul&gt;
   &lt;li&gt;What is your age?&lt;/li&gt;
   &lt;li&gt;What is your gender?&lt;/li&gt;
   &lt;li&gt;What is your ethnicity?&lt;/li&gt;
   &lt;li&gt;What is your declared major?&lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Are you an android user, iPhone user, or Windows phone user?&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Requirement questions&lt;/li&gt;
+  &lt;li&gt;Are you an android user, iPhone user, or Windows phone user?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;requirement-questions&quot;&gt;Requirement questions:&lt;/h3&gt;
+&lt;ul&gt;
   &lt;li&gt;Would you consider yourself a casual, mid-core, or hardcore mobile gamer?&lt;/li&gt;
 &lt;/ul&gt;
 
