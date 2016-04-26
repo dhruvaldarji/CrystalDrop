@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{CA627287-8D8A-BE88-4161-33E7B0069A63}") = "CrystalDrop-personal", "Assembly-CSharp-firstpass.csproj", "{B46871CF-35D2-82D7-C62B-6AEBD0B4BD16}"
+EndProject
+Project("{CA627287-8D8A-BE88-4161-33E7B0069A63}") = "CrystalDrop-personal", "Assembly-CSharp-Editor.csproj", "{827444BF-02A9-8B76-0900-0C9F80FBF327}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B46871CF-35D2-82D7-C62B-6AEBD0B4BD16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B46871CF-35D2-82D7-C62B-6AEBD0B4BD16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B46871CF-35D2-82D7-C62B-6AEBD0B4BD16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B46871CF-35D2-82D7-C62B-6AEBD0B4BD16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{827444BF-02A9-8B76-0900-0C9F80FBF327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827444BF-02A9-8B76-0900-0C9F80FBF327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827444BF-02A9-8B76-0900-0C9F80FBF327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827444BF-02A9-8B76-0900-0C9F80FBF327}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
