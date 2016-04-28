@@ -13,6 +13,6 @@ public class TiltMovement : MonoBehaviour {
 		if (Input.GetKey (KeyCode.D)) {
 			transform.Translate (moveSpeed, 0, 0);
 		}
-			transform.Translate(Input.acceleration.x, 0, 0);
+		transform.Translate((Input.acceleration.x)*2, 0, 0);
 		}
 	}
